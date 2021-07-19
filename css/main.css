@@ -1,0 +1,11 @@
+body:not(.container) {
+  font-weight: 700;
+  background-color: burlywood;
+}
+.wrapper {
+  width: 85%;
+  margin: 0 auto;
+  height: 400px;
+  background-color: chocolate;
+  font-weight: 400;
+}
